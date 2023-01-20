@@ -1,4 +1,4 @@
-# A script to retreive data from SanAPI (by sanpy) and to store it in SQLite3
+# Retreive data from SanAPI (by sanpy) and to store it in SQLite3
 
   
 ### I. Install requirements ###
