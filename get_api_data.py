@@ -3,7 +3,7 @@ from datetime import date
 
 
 # Set your API key
-san.ApiConfig.api_key = 'e6anevaho4cq2s64_lqggan4tacfgafun'
+san.ApiConfig.api_key = 'put_your_token_here'
 
 # Get today's date in string format
 today = (date.today()).strftime('%Y-%m-%d')
